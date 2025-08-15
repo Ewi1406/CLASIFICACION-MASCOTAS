@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales de la app -->
+    <color name="header_blue">#2196F3</color>
+    <color name="nav_blue">#1976D2</color>
+    <color name="light_blue_background">#E3F2FD</color>
+    <color name="app_title_color">#FF9800</color>
+    <color name="tab_text_active">#FFFFFF</color>
+    <color name="tab_text_inactive">#B3E5FC</color>
+    <color name="tab_indicator">#FF9800</color>
+    
+    <!-- Colores adicionales -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+</resources>
